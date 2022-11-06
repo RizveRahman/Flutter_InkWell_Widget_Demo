@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 200,
                   color: Colors.deepPurple,
                   margin: EdgeInsets.only(bottom: 15),
-                  child: Center(child: Text('Scroll Down ', style: ,)),
+                  child: Center(child: Text('Scroll Down ')),
                   width:450,
                 ),
                 Container(
